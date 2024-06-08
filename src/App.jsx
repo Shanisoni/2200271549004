@@ -1,5 +1,5 @@
 import "./App.css";
-import AverageCalculator from "./AverageCalculator";
+import AverageCalculator from "./assets/AverageCalculator";
 
 function App() {
   return (
