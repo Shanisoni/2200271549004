@@ -51,6 +51,8 @@ const AverageCalculator = () => {
       setError("Error fetching data");
       setResponse(null);
     }
+
+    
   };
 
   return (
